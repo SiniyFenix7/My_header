@@ -1,9 +1,7 @@
 /*
 Created by Phome Myint Thu on 3/18/2024.
-Assignment 7
- 1) Display Forward
- 2) Display Backward
- 3) Delete
+Assignment 10
+ 1) header file for link list and stack
 
 */
 
